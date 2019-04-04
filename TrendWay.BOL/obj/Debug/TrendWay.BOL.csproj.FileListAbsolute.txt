@@ -1,0 +1,12 @@
+C:\Users\Section1\source\repos\TrendWay\TrendWay.BOL\bin\Debug\TrendWay.BOL.dll
+C:\Users\Section1\source\repos\TrendWay\TrendWay.BOL\bin\Debug\TrendWay.BOL.pdb
+C:\Users\Section1\source\repos\TrendWay\TrendWay.BOL\obj\Debug\TrendWay.BOL.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\TrendWay\TrendWay.BOL\obj\Debug\TrendWay.BOL.dll
+C:\Users\Section1\source\repos\TrendWay\TrendWay.BOL\obj\Debug\TrendWay.BOL.pdb
+C:\Users\Section1\source\repos\TrendWay\TrendWay.BOL\obj\Debug\TrendWay.BOL.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\TrendWay-14Mart\TrendWay.BOL\bin\Debug\TrendWay.BOL.dll
+C:\Users\Section1\Desktop\TrendWay-14Mart\TrendWay.BOL\bin\Debug\TrendWay.BOL.pdb
+C:\Users\Section1\Desktop\TrendWay-14Mart\TrendWay.BOL\obj\Debug\TrendWay.BOL.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\TrendWay-14Mart\TrendWay.BOL\obj\Debug\TrendWay.BOL.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\TrendWay-14Mart\TrendWay.BOL\obj\Debug\TrendWay.BOL.dll
+C:\Users\Section1\Desktop\TrendWay-14Mart\TrendWay.BOL\obj\Debug\TrendWay.BOL.pdb

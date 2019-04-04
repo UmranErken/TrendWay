@@ -1,0 +1,14 @@
+C:\Users\Section1\Desktop\TrendWay-14Mart\TrendWay.DAL\bin\Release\TrendWay.DAL.dll.config
+C:\Users\Section1\Desktop\TrendWay-14Mart\TrendWay.DAL\bin\Release\TrendWay.DAL.dll
+C:\Users\Section1\Desktop\TrendWay-14Mart\TrendWay.DAL\bin\Release\TrendWay.DAL.pdb
+C:\Users\Section1\Desktop\TrendWay-14Mart\TrendWay.DAL\bin\Release\EntityFramework.dll
+C:\Users\Section1\Desktop\TrendWay-14Mart\TrendWay.DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\TrendWay-14Mart\TrendWay.DAL\bin\Release\TrendWay.BOL.dll
+C:\Users\Section1\Desktop\TrendWay-14Mart\TrendWay.DAL\bin\Release\TrendWay.BOL.pdb
+C:\Users\Section1\Desktop\TrendWay-14Mart\TrendWay.DAL\bin\Release\EntityFramework.xml
+C:\Users\Section1\Desktop\TrendWay-14Mart\TrendWay.DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\TrendWay-14Mart\TrendWay.DAL\obj\Release\TrendWay.DAL.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\TrendWay-14Mart\TrendWay.DAL\obj\Release\TrendWay.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\TrendWay-14Mart\TrendWay.DAL\obj\Release\TrendWay.DAL.csproj.CopyComplete
+C:\Users\Section1\Desktop\TrendWay-14Mart\TrendWay.DAL\obj\Release\TrendWay.DAL.dll
+C:\Users\Section1\Desktop\TrendWay-14Mart\TrendWay.DAL\obj\Release\TrendWay.DAL.pdb
